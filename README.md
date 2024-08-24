@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Harry Yu 👋
+- 🌱 I’m currently learning Math and Data Science in NYU
+- 🌍 Based in New York (usually)
+- 🎯 Focused on Data Science
+- 💻 Passionate about Natural Language Processing
+- 📫 How to reach me: ly2149@nyu.edu
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryYutou&layout=compact&theme=radical)
+## 🔧 Technologies & Tools
+- Languages: Python, R, Java
+- Platforms: Visual Studio Code, Jupyter Notebook, Google Colab
 
-<!--
-**HarryYuTou/HarryYuTou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
