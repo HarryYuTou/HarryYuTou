@@ -1,11 +1,12 @@
 # Hi there, I'm Harry Yu 👋
-- 🌱 I’m currently learning Math and Data Science in NYU
-- 🌍 Based in New York (usually)
-- 🎯 Focused on Data Science
-- 💻 Passionate about Natural Language Processing
+- 🌱 I am currently pursuing a Master’s degree in Business Analytics at UCLA and earned my Bachelor’s degree in Mathematics and Data Science from NYU
+- 🌍 Currently based in Los Angeles
+- 🎯 Focused on Data Science/Data Analytics/Business Analytics
 - 📫 How to reach me: leyanyu18@ucla.edu
 ## 🔧 Technologies & Tools
-- Languages: Python, R, Java
-- Platforms: Visual Studio Code, Jupyter Notebook, Google Colab
+- Databases & Data Warehousing: MySQL, PostgreSQL, MongoDB, Snowflake
+- Data Processing & Analytics: Apache Spark
+- Visualization & BI: Tableau
+- Development & Environment: Linux/Unix (CLI), Git, VS Code, Jupyter Notebook, Google Colab
 
 
