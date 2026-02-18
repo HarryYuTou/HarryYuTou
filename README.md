@@ -1,5 +1,5 @@
 # Hi there, I'm Harry Yu 👋
-- 🌱 I am currently pursuing a Master’s degree in Business Analytics at UCLA and earned my Bachelor’s degree in Mathematics and Data Science from NYU
+- 🌱 I am currently pursuing a Master’s degree in Business Analytics at UCLA Anderson and earned my Bachelor’s degree in Data Science and Mathematics from NYU
 - 🌍 Currently based in Los Angeles
 - 🎯 Focused on Data Science/Data Analytics/Business Analytics
 - 📫 How to reach me: leyanyu18@ucla.edu
